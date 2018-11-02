@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace GenericKeyCollection
 {
-    class Program
+    class GenericDictionary
     {
-        static void Main(string[] args)
-        {
-            GenericList genList = new GenericList();
 
-            genList.MakeAList();
-        }
     }
 }

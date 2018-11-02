@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace GenericKeyCollection
 {
-    class Program
+    class GenericLinkedList
     {
-        static void Main(string[] args)
+        public void MakeALinkedList()
         {
-            GenericList genList = new GenericList();
 
-            genList.MakeAList();
         }
     }
 }
