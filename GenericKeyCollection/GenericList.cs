@@ -26,6 +26,8 @@ namespace GenericKeyCollection
                 Console.Write($"{c} ");
             }
             Console.WriteLine();
+            Console.WriteLine();
+
         }
 
     }

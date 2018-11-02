@@ -12,9 +12,11 @@ namespace GenericKeyCollection
         {
             GenericList genList = new GenericList();
             GenericLinkedList lList = new GenericLinkedList();
+            GenericQueue qList = new GenericQueue();
 
             genList.MakeAList();
             lList.MakeALinkedList();
+            qList.MakeAQueue();
         }
     }
 }

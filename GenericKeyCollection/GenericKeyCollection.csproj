@@ -46,6 +46,7 @@
     <Compile Include="GenericDictionary.cs" />
     <Compile Include="GenericLinkedList.cs" />
     <Compile Include="GenericList.cs" />
+    <Compile Include="GenericQueue.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

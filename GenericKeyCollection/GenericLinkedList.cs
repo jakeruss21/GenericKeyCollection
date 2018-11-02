@@ -23,6 +23,7 @@ namespace GenericKeyCollection
                 Console.Write($"{s} ");
             }
             Console.WriteLine();
+            Console.WriteLine();
 
         }
     }
