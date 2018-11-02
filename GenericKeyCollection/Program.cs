@@ -11,8 +11,10 @@ namespace GenericKeyCollection
         static void Main(string[] args)
         {
             GenericList genList = new GenericList();
+            GenericLinkedList lList = new GenericLinkedList();
 
             genList.MakeAList();
+            lList.MakeALinkedList();
         }
     }
 }
