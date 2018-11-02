@@ -12,7 +12,7 @@ namespace GenericKeyCollection
         {
             Queue<char> character = new Queue<char>();
 
-            Console.WriteLine("Queue Generic List:");
+            Console.WriteLine("Queue<char> Generic:");
 
             foreach(char chars in new char[] { 'a', 'b', 'c', 'd', 'E' })
             {
