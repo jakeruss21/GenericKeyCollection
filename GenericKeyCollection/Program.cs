@@ -15,12 +15,14 @@ namespace GenericKeyCollection
             GenericQueue qList = new GenericQueue();
             GenericStack stackit = new GenericStack();
             GenericDictionary dictionary = new GenericDictionary();
+            GenericSortList sorted = new GenericSortList();
 
             genList.MakeAList();
             lList.MakeALinkedList();
             qList.MakeAQueue();
             stackit.MakeAStack();
             dictionary.MakeADictionary();
+            sorted.MakeASortedList();
         }
     }
 }
