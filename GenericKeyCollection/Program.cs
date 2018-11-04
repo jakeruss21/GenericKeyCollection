@@ -14,11 +14,13 @@ namespace GenericKeyCollection
             GenericLinkedList lList = new GenericLinkedList();
             GenericQueue qList = new GenericQueue();
             GenericStack stackit = new GenericStack();
+            GenericDictionary dictionary = new GenericDictionary();
 
             genList.MakeAList();
             lList.MakeALinkedList();
             qList.MakeAQueue();
             stackit.MakeAStack();
+            dictionary.MakeADictionary();
         }
     }
 }
