@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GenericDictionary.cs" />
+    <Compile Include="GenericHash.cs" />
     <Compile Include="GenericLinkedList.cs" />
     <Compile Include="GenericList.cs" />
     <Compile Include="GenericQueue.cs" />

@@ -16,6 +16,7 @@ namespace GenericKeyCollection
             GenericStack stackit = new GenericStack();
             GenericDictionary dictionary = new GenericDictionary();
             GenericSortList sorted = new GenericSortList();
+            GenericHash hashbrowns = new GenericHash();
 
             genList.MakeAList();
             lList.MakeALinkedList();
@@ -23,6 +24,7 @@ namespace GenericKeyCollection
             stackit.MakeAStack();
             dictionary.MakeADictionary();
             sorted.MakeASortedList();
+            hashbrowns.MakeAHash();
         }
     }
 }
